@@ -1,0 +1,16 @@
+body {
+    background-color: purple;
+}
+.moral{
+ background-color: blue;
+}
+.moral h1 {
+    font-size: 20px;
+    color: white;
+    height: 40px;
+}
+.moral p {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
